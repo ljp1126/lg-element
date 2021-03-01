@@ -20,7 +20,7 @@ export const Login = () => ({
         <lg-input type="password" v-model="user.password"></lg-input>
       </lg-form-item>
       <lg-form-item>
-        <lg-button type="primary" @click="login">登 录</lg-button>
+        <lg-buttons type="primary" @click="login">登 录</lg-buttons>
       </lg-form-item>
     </lg-form>
   `,

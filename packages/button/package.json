@@ -1,5 +1,5 @@
 {
-  "name": "lg-button",
+  "name": "lg-buttons",
   "version": "0.0.2",
   "description": "",
   "main": "dist/cjs/index.js",
@@ -10,11 +10,11 @@
     "del": "rimraf dist"
   },
   "keywords": [],
-  "author": "教瘦 <54337467@qq.com>",
+  "author": "elijpe",
   "license": "MIT",
   "dependencies": {
     "loadsh": "^0.0.4",
     "lodash": "4"
   },
-  "gitHead": "930f550a1a0da8370aa81ab36274b6d5d281dbf8"
+  "gitHead": "8b53af153af3bda0be3eaa8ff4fb1d4c7f03cf08"
 }
