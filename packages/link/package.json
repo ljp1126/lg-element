@@ -1,7 +1,7 @@
 {
-  "name": "lg-link",
+  "name": "lg-links",
   "version": "0.0.3",
-  "description": "lg-link component",
+  "description": "lg-links component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
   "author": "教瘦 <54337467@qq.com>",
@@ -10,5 +10,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "gitHead": "8b53af153af3bda0be3eaa8ff4fb1d4c7f03cf08"
+  "gitHead": "015c91391a9fd8391155e1905edf132bbf71ac78"
 }

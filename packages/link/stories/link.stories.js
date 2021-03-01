@@ -9,7 +9,7 @@ export const Link = _ => ({
   components: { LgLink },
   template: `
     <div>
-      <lg-link :disabled="true" href="http://www.baidu.com">baidu</lg-link>
+      <lg-links :disabled="true" href="http://www.baidu.com">baidu</lg-links>
     </div>
   `
 })
