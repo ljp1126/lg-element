@@ -12,8 +12,10 @@ module.exports = [
     ],
     plugins: [
       vue({
-        css: true, // Dynamically inject css as a <style> tag
-        compileTemplate: true, // Explicitly convert template to render function
+        // Dynamically inject css as a <style> tag
+        css: true, 
+        // Explicitly convert template to render function
+        compileTemplate: true
       }),
       terser()
     ]

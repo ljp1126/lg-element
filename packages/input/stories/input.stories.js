@@ -7,7 +7,7 @@ export default {
 
 export const Text = () => ({
   components: { LgInput },
-  template: '<lg-inputs v-model="value"></lg-inputs>',
+  template: '<lg-input v-model="value"></lg-input>',
   data () {
     return {
       value: 'admin'
@@ -17,7 +17,7 @@ export const Text = () => ({
 
 export const Password = () => ({
   components: { LgInput },
-  template: '<lg-inputs type="password" v-model="value"></lg-inputs>',
+  template: '<lg-input type="password" v-model="value"></lg-input>',
   data () {
     return {
       value: 'admin'
